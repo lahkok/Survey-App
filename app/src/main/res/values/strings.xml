@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TugasMobile</string>
+    <string name="btn_get_started">Get Started</string>
+    <string name="btn_submit">Submit</string>
+    <string name="forgot_password">Forgot your password?</string>
+    <string name="sign_up">Doesn\'t have an account? Sign up now!</string>
+    <string name="sign_in">Sign in</string>
+    <string name="register">Register</string>
+    <string name="welcome">Selamat Datang di Aplikasi Survey Kepuasan Pelanggan</string>
+    <string-array name="planets_array">
+        <item>---Pilih Salah Satu---</item>
+        <item>Iklan</item>
+        <item>Social Media</item>
+        <item>Rekomendasi Teman</item>
+        <item>Lainnya</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
